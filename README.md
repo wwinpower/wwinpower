@@ -37,7 +37,7 @@
 
 
 
-### ❤ to Build - Full stack Developer | UI/UX Designer
+### ❤ Full stack Developer | UI/UX Designer
 
 <br>
 
