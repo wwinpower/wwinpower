@@ -45,8 +45,6 @@ Hi, I'm Vladimir— a Full stack developer at Winpower building some real stuff 
 
 <br>
 
-<hr>
-
 ### 📬 Find me around the web 🌎
 
 [![Telegram Vladimir Abrahamyan][1.1]][1]
