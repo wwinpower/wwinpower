@@ -92,25 +92,16 @@ Hi, I'm Vladimir— a Full stack developer at Winpower building some real stuff 
 
 <hr>
 
+## What can I do?
+•	I can do business analytics. For example, a SWOT analysis
+•	Design? Yes, please, UX/UI basically create layouts using the Figma tool, Photoshop. For example, www.behance.net/comboskill , https://www.figma.com/file/07AQdD9fttEkpn19CdtArv/Untitled?node-id=1%3A313
+•	I can turn the layout into codes, I can use both Float and flex, grid template. I use CSS3 variables, but if necessary, I can connect SCSS (for, if, mixin, etc.) or Less. I know how to connect the library and read the documentation. I use the BEM methodology. For example, Zipbooks, Gluu, Whatsbusy, comboskill, etc.
+•	JavaScript is my favorite, I know such standards ES5-ES8, I can apply both with OOP and without. I wrote various interesting projects in pure JS, and also created Google Extensions.
+•	From the JS libraries, I use React in practice, not counting jQuery. Due to the fact that I didn't write code for a short period of time, I started learning React with hooks, and I understand and apply Redux and Mobx. I can create reusable components.
+•	To create the backend, I use Node.js on the Express platform, I use such template engines as ejs, hbs and pug. I know such modules as selenium, phantom, puppeteer
+•	Databases - MongoDB and MySQL
+•	I took various courses in marketing, SMM (Instagram, FB)
 
-## My skils
-
-- I used such engines for views as hbs, ets, plug
-- I created different parsers on the libraries Puppeteer, Selenium, Phantom.js for Instagram Facebook and
-other social networks
-- I created various extensions for Google Chrome, mostly bots for Instagram, facebook and other social
-networks.
-- I wrote a mathematical calculator for sports betting
-- I started using React
-- I used both Redux and Mobix to manage the application state
-- With the release of React Hooks in 2019, I started studying
-- Business Analytics
-- Collection, processing and analysis of information on the company's business processes
-- Communication with internal customers (marketing, product management)
-- Skills of independent development and coordination of business requirements, functional requirements
-and technical tasks
-- UI/UX-Understanding design principles, as well as prototyping.
-- Create responsive layouts, understandable language for Frontend developers. For example, Comboskill
 
 
 I love what I do and I aspire to create designs and experiences that can help solve problems and communicate both in anesthetic and functional sense. I am looking forward to work, learn on developing applications. A Passioniate towards learning and developing MERN || MEVN Stack sites, designing minimalistic UI/UX and Love sharing my knowledge, insights of learning with others through Blogging. Some of the technologies I enjoy working with include NodeJS, ReactJS, other JS frameworks and UI/UX samples with prototyping using Figma and 💎 Adobe XD.
