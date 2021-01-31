@@ -3,6 +3,7 @@
 <br>
 
 Hi, I'm Vladimir— a Full stack developer at Winpower building some real stuff through code. My working principle is learning by doing. Always up for a discussion on softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+I love what I do and I aspire to create designs and experiences that can help solve problems and communicate both in anesthetic and functional sense. I am looking forward to work, learn on developing applications. A Passioniate towards learning and developing MERN || MEVN Stack sites, designing minimalistic UI/UX and Love sharing my knowledge, insights of learning with others through Blogging. Some of the technologies I enjoy working with include NodeJS, ReactJS, other JS frameworks and UI/UX samples with prototyping using Figma and 💎 Adobe XD.
 
 <hr>
 
@@ -68,14 +69,22 @@ Hi, I'm Vladimir— a Full stack developer at Winpower building some real stuff 
 
 <h3>Design</h3>
 
-<img src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png" width="48"/>
-<img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" width="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" width="48"/>
-<img src="https://avocode.gallerycdn.vsassets.io/extensions/avocode/avocode/0.0.4/1556192850014/Microsoft.VisualStudio.Services.Icons.Default" width="48"/>
-<img src="https://zeplin.io/img/favicon/228x228.png" width="48"/>
+<p>
+
+<img src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png" width="48">
+
+<img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" width="48">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" width="48">
+
+<img src="https://avocode.gallerycdn.vsassets.io/extensions/avocode/avocode/0.0.4/1556192850014/Microsoft.VisualStudio.Services.Icons.Default" width="48">
+
+<img src="https://zeplin.io/img/favicon/228x228.png" width="48">
+
+</p>
+
 
 <h3>Other</h3>
 
 ![18.2] ![19.2] ![20.2] ![21.2]
 
-I love what I do and I aspire to create designs and experiences that can help solve problems and communicate both in anesthetic and functional sense. I am looking forward to work, learn on developing applications. A Passioniate towards learning and developing MERN || MEVN Stack sites, designing minimalistic UI/UX and Love sharing my knowledge, insights of learning with others through Blogging. Some of the technologies I enjoy working with include NodeJS, ReactJS, other JS frameworks and UI/UX samples with prototyping using Figma and 💎 Adobe XD.
