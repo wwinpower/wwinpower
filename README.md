@@ -1,12 +1,3 @@
-
-### ❤ to Build - Full stack Developer | UI/UX Designer
-<br>
-
-Hi, I'm Vladimir— a Full stack developer at Winpower building some real stuff through code. My working principle is learning by doing. Always up for a discussion on softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
-I love what I do and I aspire to create designs and experiences that can help solve problems and communicate both in anesthetic and functional sense. I am looking forward to work, learn on developing applications. A Passioniate towards learning and developing MERN || MEVN Stack sites, designing minimalistic UI/UX and Love sharing my knowledge, insights of learning with others through Blogging. Some of the technologies I enjoy working with include NodeJS, ReactJS, other JS frameworks and UI/UX samples with prototyping using Figma and 💎 Adobe XD.
-
-<hr>
-
 [1.1]:https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white (Telegram icon with padding)
 [2.1]:https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (Gmail icon with padding)
 [3.1]:https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white (WhatsApp icon with padding)
@@ -43,6 +34,18 @@ I love what I do and I aspire to create designs and experiences that can help so
 [3]: +37493416555
 [4]: https://www.facebook.com/vladimir.abrahamyan
 [5]: https://www.linkedin.com/in/vladimir-abrahamyan
+
+
+
+### ❤ to Build - Full stack Developer | UI/UX Designer
+
+<br>
+
+Hi, I'm Vladimir— a Full stack developer at Winpower building some real stuff through code. My working principle is learning by doing. Always up for a discussion on softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+
+<br>
+
+<hr>
 
 
 [![Telegram Vladimir Abrahamyan][1.1]][1]
@@ -88,3 +91,33 @@ I love what I do and I aspire to create designs and experiences that can help so
 
 ![18.2] ![19.2] ![20.2] ![21.2]
 
+<hr>
+
+
+## My skils
+
+- I used such engines for views as hbs, ets, plug
+- I created different parsers on the libraries Puppeteer, Selenium, Phantom.js for Instagram Facebook and
+other social networks
+- I created various extensions for Google Chrome, mostly bots for Instagram, facebook and other social
+networks.
+- I wrote a mathematical calculator for sports betting
+- I started using React
+- I used both Redux and Mobix to manage the application state
+- With the release of React Hooks in 2019, I started studying
+- Business Analytics
+- Collection, processing and analysis of information on the company's business processes
+- Communication with internal customers (marketing, product management)
+- Skills of independent development and coordination of business requirements, functional requirements
+and technical tasks
+- UI/UX-Understanding design principles, as well as prototyping.
+- Create responsive layouts, understandable language for Frontend developers. For example, Comboskill
+
+
+I love what I do and I aspire to create designs and experiences that can help solve problems and communicate both in anesthetic and functional sense. I am looking forward to work, learn on developing applications. A Passioniate towards learning and developing MERN || MEVN Stack sites, designing minimalistic UI/UX and Love sharing my knowledge, insights of learning with others through Blogging. Some of the technologies I enjoy working with include NodeJS, ReactJS, other JS frameworks and UI/UX samples with prototyping using Figma and 💎 Adobe XD.
+
+[![Telegram Vladimir Abrahamyan][1.1]][1]
+[![Gmail Vladimir Abrahamyan][2.1]][2]
+[![WhatsApp Vladimir Abrahamyan][3.1]][3]
+[![Facebook Vladimir Abrahamyan][4.1]][4]
+[![LinkedIn Vladimir Abrahamyan][5.1]][5]
