@@ -93,14 +93,14 @@ Hi, I'm Vladimir— a Full stack developer at Winpower building some real stuff 
 <hr>
 
 ## What can I do?
-•	I can do business analytics. For example, a SWOT analysis
-•	Design? Yes, please, UX/UI basically create layouts using the Figma tool, Photoshop. For example, www.behance.net/comboskill , https://www.figma.com/file/07AQdD9fttEkpn19CdtArv/Untitled?node-id=1%3A313
-•	I can turn the layout into codes, I can use both Float and flex, grid template. I use CSS3 variables, but if necessary, I can connect SCSS (for, if, mixin, etc.) or Less. I know how to connect the library and read the documentation. I use the BEM methodology. For example, Zipbooks, Gluu, Whatsbusy, comboskill, etc.
-•	JavaScript is my favorite, I know such standards ES5-ES8, I can apply both with OOP and without. I wrote various interesting projects in pure JS, and also created Google Extensions.
-•	From the JS libraries, I use React in practice, not counting jQuery. Due to the fact that I didn't write code for a short period of time, I started learning React with hooks, and I understand and apply Redux and Mobx. I can create reusable components.
-•	To create the backend, I use Node.js on the Express platform, I use such template engines as ejs, hbs and pug. I know such modules as selenium, phantom, puppeteer
-•	Databases - MongoDB and MySQL
-•	I took various courses in marketing, SMM (Instagram, FB)
+- I can do business analytics. For example, a SWOT analysis
+- Design? Yes, please, UX/UI basically create layouts using the Figma tool, Photoshop. For example, www.behance.net/comboskill , https://www.figma.com/file/07AQdD9fttEkpn19CdtArv/Untitled?node-id=1%3A313
+- I can turn the layout into codes, I can use both Float and flex, grid template. I use CSS3 variables, but if necessary, I can connect SCSS (for, if, mixin, etc.) or Less. I know how to connect the library and read the documentation. I use the BEM methodology. For example, Zipbooks, Gluu, Whatsbusy, comboskill, etc.
+- JavaScript is my favorite, I know such standards ES5-ES8, I can apply both with OOP and without. I wrote various interesting projects in pure JS, and also created Google Extensions.
+- From the JS libraries, I use React in practice, not counting jQuery. Due to the fact that I didn't write code for a short period of time, I started learning React with hooks, and I understand and apply Redux and Mobx. I can create reusable components.
+- To create the backend, I use Node.js on the Express platform, I use such template engines as ejs, hbs and pug. I know such modules as selenium, phantom, puppeteer
+- Databases - MongoDB and MySQL
+- I took various courses in marketing, SMM (Instagram, FB)
 
 
 
