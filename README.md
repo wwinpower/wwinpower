@@ -69,11 +69,11 @@ I love what I do and I aspire to create designs and experiences that can help so
 
 <h3>Design</h3>
 
-<img src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png" width="48">
-<img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" width="48">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" width="48">
-<img src="https://avocode.gallerycdn.vsassets.io/extensions/avocode/avocode/0.0.4/1556192850014/Microsoft.VisualStudio.Services.Icons.Default" width="48">
-<img src="https://zeplin.io/img/favicon/228x228.png" width="48">
+<img src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png" width="48"/>
+<img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" width="48"/>
+<img src="https://avocode.gallerycdn.vsassets.io/extensions/avocode/avocode/0.0.4/1556192850014/Microsoft.VisualStudio.Services.Icons.Default" width="48"/>
+<img src="https://zeplin.io/img/favicon/228x228.png" width="48"/>
 
 <h3>Other</h3>
 
