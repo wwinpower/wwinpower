@@ -3,7 +3,6 @@
 <br>
 
 Hi, I'm Vladimir— a Full stack developer at Winpower building some real stuff through code. My working principle is learning by doing. Always up for a discussion on softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
-I love what I do and I aspire to create designs and experiences that can help solve problems and communicate both in anesthetic and functional sense. I am looking forward to work, learn on developing applications. A Passioniate towards learning and developing MERN || MEVN Stack sites, designing minimalistic UI/UX and Love sharing my knowledge, insights of learning with others through Blogging. Some of the technologies I enjoy working with include NodeJS, ReactJS, other JS frameworks and UI/UX samples with prototyping using Figma and 💎 Adobe XD.
 
 <hr>
 
@@ -79,3 +78,4 @@ I love what I do and I aspire to create designs and experiences that can help so
 
 ![18.2] ![19.2] ![20.2] ![21.2]
 
+I love what I do and I aspire to create designs and experiences that can help solve problems and communicate both in anesthetic and functional sense. I am looking forward to work, learn on developing applications. A Passioniate towards learning and developing MERN || MEVN Stack sites, designing minimalistic UI/UX and Love sharing my knowledge, insights of learning with others through Blogging. Some of the technologies I enjoy working with include NodeJS, ReactJS, other JS frameworks and UI/UX samples with prototyping using Figma and 💎 Adobe XD.
