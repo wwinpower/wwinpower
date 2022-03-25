@@ -37,7 +37,7 @@
 
 
 
-### ❤ Full stack Developer | UI/UX Designer
+### ❤ Senior Frontend Developer | UI/UX Designer
 
 <br>
 
