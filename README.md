@@ -41,7 +41,14 @@
 
 <br>
 
-Hi, I'm Vladimir— a Full stack developer at Winpower building some real stuff through code. My working principle is learning by doing. Always up for a discussion on softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+Hi, I'm Vladimir, Senior Frontend Developer and crypto enthusiast. For more than 5 years I have been working in large international companies and developing my skills, constantly improving them. I have high personal standards and attention to detail. I use a strict approach to the implementation of tasks. In addition, I am looking for the best solutions and always aim for the best result. Over five years of working in this industry, I have honed my analytical thinking and teamwork skills and I have a deep understanding of what is needed for a successful project.
+
+I use React as the main stack. I like this technology because it works very fast when using React Hooks correctly. I use Redux, MobX or Context Hook as state management. I can create adaptive layouts on Figma and convert high-quality code using technologies such as Float, Flex or Grid using SCSS/LESS preprocessors.
+
+And I also had to write a REST API on Node(Express), I used MongoDB as a database, because I think this is a great option for fast-growing projects. In many projects I have used Puppeteer, Selenium and Phantom which allow automating processes.
+
+Now I am actively studying Blockchain technologies, as I see the prospect.
+
 
 <br>
 
@@ -91,20 +98,6 @@ Hi, I'm Vladimir— a Full stack developer at Winpower building some real stuff 
 ![18.2] ![19.2] ![20.2] ![21.2]
 
 <hr>
-
-## What can I do?
-- I can do business analytics. For example, a SWOT analysis
-- Design? Yes, please, UX/UI basically create layouts using the Figma tool, Photoshop. For example, www.behance.net/comboskill , https://www.figma.com/file/07AQdD9fttEkpn19CdtArv/Untitled?node-id=1%3A313
-- I can turn the layout into codes, I can use both Float and flex, grid template. I use CSS3 variables, but if necessary, I can connect SCSS (for, if, mixin, etc.) or Less. I know how to connect the library and read the documentation. I use the BEM methodology. For example, Zipbooks, Gluu, Whatsbusy, comboskill, etc.
-- JavaScript is my favorite, I know such standards ES5-ES8, I can apply both with OOP and without. I wrote various interesting projects in pure JS, and also created Google Extensions.
-- From the JS libraries, I use React in practice, not counting jQuery. Due to the fact that I didn't write code for a short period of time, I started learning React with hooks, and I understand and apply Redux and Mobx. I can create reusable components.
-- To create the backend, I use Node.js on the Express platform, I use such template engines as ejs, hbs and pug. I know such modules as selenium, phantom, puppeteer
-- Databases - MongoDB and MySQL
-- I took various courses in marketing, SMM (Instagram, FB)
-
-
-
-I love what I do and I aspire to create designs and experiences that can help solve problems and communicate both in anesthetic and functional sense. I am looking forward to work, learn on developing applications. A Passioniate towards learning and developing MERN || MEVN Stack sites, designing minimalistic UI/UX and Love sharing my knowledge, insights of learning with others through Blogging. Some of the technologies I enjoy working with include NodeJS, ReactJS, other JS frameworks and UI/UX samples with prototyping using Figma and 💎 Adobe XD.
 
 [![Telegram Vladimir Abrahamyan][1.1]][1]
 [![Gmail Vladimir Abrahamyan][2.1]][2]
