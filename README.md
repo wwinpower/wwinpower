@@ -37,18 +37,7 @@
 
 
 
-### ❤ Senior Frontend Developer | UI/UX Designer
-
-<br>
-
-Hi, I'm Vladimir, Senior Frontend Developer and crypto enthusiast. For more than 5 years I have been working in large international companies and developing my skills, constantly improving them. I have high personal standards and attention to detail. I use a strict approach to the implementation of tasks. In addition, I am looking for the best solutions and always aim for the best result. Over five years of working in this industry, I have honed my analytical thinking and teamwork skills and I have a deep understanding of what is needed for a successful project.
-
-I use React as the main stack. I like this technology because it works very fast when using React Hooks correctly. I use Redux, MobX or Context Hook as state management. I can create adaptive layouts on Figma and convert high-quality code using technologies such as Float, Flex or Grid using SCSS/LESS preprocessors.
-
-And I also had to write a REST API on Node(Express), I used MongoDB as a database, because I think this is a great option for fast-growing projects. In many projects I have used Puppeteer, Selenium and Phantom which allow automating processes.
-
-Now I am actively studying Blockchain technologies, as I see the prospect.
-
+### Senior Frontend Developer
 
 <br>
 
