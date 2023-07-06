@@ -31,12 +31,6 @@
 [2]: vladimir.abrahamyan96@gmail.com
 [3]: https://www.linkedin.com/in/vladimir-abrahamyan
 
-
-
-### CEO Comboskill | Tech Lead
-
-<br>
-
 ### 📬 Find me around the web 🌎
 
 [![Telegram Vladimir Abrahamyan][1.1]][1]
