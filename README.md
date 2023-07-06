@@ -71,8 +71,6 @@
 
 <img src="https://avocode.gallerycdn.vsassets.io/extensions/avocode/avocode/0.0.4/1556192850014/Microsoft.VisualStudio.Services.Icons.Default" width="48">
 
-<img src="https://zeplin.io/img/favicon/228x228.png" width="48">
-
 </p>
 
 
