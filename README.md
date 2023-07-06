@@ -82,6 +82,4 @@
 
 [![Telegram Vladimir Abrahamyan][1.1]][1]
 [![Gmail Vladimir Abrahamyan][2.1]][2]
-[![WhatsApp Vladimir Abrahamyan][3.1]][3]
-[![Facebook Vladimir Abrahamyan][4.1]][4]
-[![LinkedIn Vladimir Abrahamyan][5.1]][5]
+[![LinkedIn Vladimir Abrahamyan][3.1]][3]
